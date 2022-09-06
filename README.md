@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke (@lajh87)
 - 👀 I’m interested in economics and data science
-- 🌱 I predominately code in R with bits of python see also (gitlab.com/lajh87)
+- 🌱 I predominately code in R with bits of python @see also [gitlab.com/lajh87](gitlab.com/lajh87)
 - 📫 How to reach me ...
 
 <!---
